@@ -77,7 +77,7 @@ By transforming raw data into interactive and intuitive visuals, this project em
 
 👤 Linkedin
 
-🔗 LinkedIn (Lakshitha): [linkedin.com/in/dumpa-lakshitha-4720a3327/](https://www.linkedin.com/in/dumpa-lakshitha-4720a3327/)  
-🔗 LinkedIn (Lakshmipriya): [linkedin.com/in/lakshmipriya-vinukonda-46911b354?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/lakshmipriya-vinukonda-46911b354?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+🔗 LinkedIn (Lakshitha): (https://www.linkedin.com/in/dumpa-lakshitha-4720a3327/)  
+🔗 LinkedIn (Lakshmipriya):(https://www.linkedin.com/in/lakshmipriya-vinukonda-46911b354?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
